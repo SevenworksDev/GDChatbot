@@ -1,4 +1,4 @@
-# GDChatbot
+# GDChatbot (Original by Harm)
 ## Setup
 Install Python from https://python.org  
 Use "pip install requests" to install the requests module  
